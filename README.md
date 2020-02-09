@@ -1,0 +1,2 @@
+Jenkins plugins extensibility makes Jenkins to adapt to many systems. Jenkins provides everything for a robust continuous integration system which helps a lot for team that practice Agile 
+Jenkins continuously providing access to the working copies of software which supports the Agile principle.
